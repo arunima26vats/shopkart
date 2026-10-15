@@ -186,4 +186,4 @@ const styles: Record<string, React.CSSProperties> = {
     borderRadius: 8,
   },
 };
-import type { CSSProperties } from 'react';
+
