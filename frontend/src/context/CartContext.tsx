@@ -4,7 +4,7 @@ import {
   useEffect,
   useMemo,
   useState,
-  ReactNode,
+  type ReactNode,
 } from 'react';
 
 import api from '../services/api';
